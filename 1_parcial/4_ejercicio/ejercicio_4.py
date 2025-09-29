@@ -13,3 +13,5 @@ for X in range(rows):
 
 print(matriz)
 print(op)
+
+input("Presione enter para salir.....")

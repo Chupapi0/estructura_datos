@@ -16,4 +16,4 @@ elif n == 0 or n == 1:
 else:
     print("No hay factorial de numeros negativos")
 
-# Mostrar el valor ingresado
+input("Presione enter para salir.....")

@@ -21,4 +21,4 @@ elif f == 0:
 else:
     print("ERROR con los numeros negativos")
 
-# Mostrar el valor ingresado
+input("Presione enter para salir.....")

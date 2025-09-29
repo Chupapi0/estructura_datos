@@ -11,20 +11,4 @@ texto = input("Introduzca una cadena de texto: ")
 resultado = invertir_cadena(texto)
 print("Cadena invertida:", resultado)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+input("Presione enter para salir.....")
