@@ -21,3 +21,5 @@ print("Pila después de eliminar un elemento:", pila)
 print("\n---COLAS---")
 print("Elemento eliminado:", primero)
 print("Pila después de eliminar un elemento:", cola)
+
+input("Presione enter para salir.....")
